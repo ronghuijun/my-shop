@@ -25,59 +25,74 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my-shop-web-admin/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my-shop-commons/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my-shop-dependencies/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/webapp/static/assets/js/pages/login2.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/web/interceptor/LoginInterceptor.java">
+        <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/webapp/WEB-INF/views/main.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-286">
-              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            <state relative-caret-position="214">
+              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/web/interceptor/PermissionInterceptor.java">
+        <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/webapp/WEB-INF/includes/menu.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/webapp/WEB-INF/includes/nav.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+              <folding>
+                <element signature="n#a#0;n#li#0;n#ul#0;n#div#0;n#nav#0;n#header#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/webapp/WEB-INF/includes/copyright.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+              <folding>
+                <element signature="e#364#370#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/webapp/WEB-INF/includes/footer.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/webapp/WEB-INF/includes/header.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
-              <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+              <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/web/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -86,22 +101,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/resources/spring-mvc.xml">
+        <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/webapp/WEB-INF/views/user_list.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+            <state relative-caret-position="328">
+              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/web/controller/LoginController.java">
+        <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/webapp/WEB-INF/views/login.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state>
+              <caret selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-shop-commons/src/main/java/com/rhj/my/shop/commons/constant/ConstantUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -113,33 +134,52 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/my-shop-dependencies/pom.xml" />
         <option value="$PROJECT_DIR$/my-shop-domain/pom.xml" />
         <option value="$PROJECT_DIR$/my-shop-web-ui/pom.xml" />
         <option value="$PROJECT_DIR$/my-shop-web-api/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/my-shop-web-admin/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/my-shop-web-admin/src/main/resources/spring-context.xml" />
         <option value="$PROJECT_DIR$/my-shop-domain/src/main/java/com/rhj/my/shop/domain/User.java" />
         <option value="$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/dao/UserDao.java" />
-        <option value="$PROJECT_DIR$/my-shop-commons/pom.xml" />
         <option value="$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/dao/impl/UserDaoImpl.java" />
         <option value="$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/service/impl/UserService.java" />
         <option value="$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/service/UserService.java" />
         <option value="$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/service/impl/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/my-shop-web-admin/pom.xml" />
         <option value="$PROJECT_DIR$/my-shop-commons/src/main/java/com/rhj/my/shop/commons/constant/ConstantUtil.java" />
         <option value="$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/web/controller/MainController.java" />
-        <option value="$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/web/interceptor/LoginInterceptor.java" />
-        <option value="$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/web/interceptor/PermissionInterceptor.java" />
         <option value="$PROJECT_DIR$/my-shop-web-admin/src/main/resources/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/my-shop-commons/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-web-admin/src/main/resources/spring-context-druid.xml" />
+        <option value="$PROJECT_DIR$/my-shop-web-admin/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/my-shop-web-admin/src/main/resources/myshop.properties" />
+        <option value="$PROJECT_DIR$/my-shop-web-admin/src/main/resources/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/my-shop-web-admin/src/main/resources/spring-context-mybatis.xml" />
+        <option value="$PROJECT_DIR$/my-shop-dependencies/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-web-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-domain/src/main/java/com/rhj/my/shop/domain/TbUser.java" />
+        <option value="$PROJECT_DIR$/my-shop-web-admin/src/main/resources/mapper/TbUserMapper.xml" />
+        <option value="$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/dao/TbUserDao.java" />
+        <option value="$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/service/TbUserService.java" />
+        <option value="$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/service/impl/TbUserServiceImpl.java" />
         <option value="$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/web/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/web/interceptor/PermissionInterceptor.java" />
+        <option value="$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/web/interceptor/LoginInterceptor.java" />
+        <option value="$PROJECT_DIR$/my-shop-web-admin/src/test/java/com/rhj/my/shop/web/admin/service/test/TbUserServiceTest.java" />
+        <option value="$PROJECT_DIR$/my-shop-web-admin/src/main/webapp/WEB-INF/views/user_list.jsp" />
+        <option value="$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/web/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/my-shop-web-admin/src/main/webapp/WEB-INF/includes/header.jsp" />
+        <option value="$PROJECT_DIR$/my-shop-web-admin/src/main/webapp/WEB-INF/includes/footer.jsp" />
+        <option value="$PROJECT_DIR$/my-shop-web-admin/src/main/webapp/WEB-INF/includes/copyright.jsp" />
+        <option value="$PROJECT_DIR$/my-shop-web-admin/src/main/webapp/WEB-INF/includes/nav.jsp" />
+        <option value="$PROJECT_DIR$/my-shop-web-admin/src/main/webapp/WEB-INF/includes/menu.jsp" />
+        <option value="$PROJECT_DIR$/my-shop-web-admin/src/main/webapp/WEB-INF/views/main.jsp" />
       </list>
     </option>
   </component>
@@ -167,13 +207,22 @@
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="my-shop-domain" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="my-shop-web-admin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="my-shop-web-admin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
       </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="72" />
-    <option name="y" value="168" />
+    <option name="x" value="613" />
+    <option name="y" value="65" />
     <option name="width" value="1480" />
     <option name="height" value="950" />
   </component>
@@ -182,7 +231,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,25 +241,7 @@
             <path>
               <item name="my-shop" type="b2602c69:ProjectViewProjectNode" />
               <item name="my-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="my-shop-commons" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my-shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="my-shop-commons" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my-shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="my-shop-commons" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my-shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="my-shop-dependencies" type="462c0819:PsiDirectoryNode" />
+              <item name="my-shop-domain" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="my-shop" type="b2602c69:ProjectViewProjectNode" />
@@ -247,6 +277,37 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-shop" type="462c0819:PsiDirectoryNode" />
+              <item name="my-shop-web-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-shop" type="462c0819:PsiDirectoryNode" />
+              <item name="my-shop-web-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-shop" type="462c0819:PsiDirectoryNode" />
+              <item name="my-shop-web-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="my-shop" type="b2602c69:ProjectViewProjectNode" />
@@ -286,7 +347,7 @@
               <item name="my-shop-web-admin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="my-shop" type="b2602c69:ProjectViewProjectNode" />
@@ -295,6 +356,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="my-shop" type="b2602c69:ProjectViewProjectNode" />
@@ -305,10 +367,55 @@
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="my-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-shop" type="462c0819:PsiDirectoryNode" />
+              <item name="my-shop-web-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-shop" type="462c0819:PsiDirectoryNode" />
+              <item name="my-shop-web-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-shop" type="462c0819:PsiDirectoryNode" />
+              <item name="my-shop-web-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-shop" type="462c0819:PsiDirectoryNode" />
+              <item name="my-shop-web-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-shop" type="462c0819:PsiDirectoryNode" />
+              <item name="my-shop-web-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -324,14 +431,14 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\代码\单体应用\my-shop\my-shop-web-admin\src\main\webapp" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\代码\单体应用\my-shop\my-shop-web-admin\src\main\java\com\rhj\my\shop\web\admin\web\interceptor" />
       <recent name="D:\代码\单体应用\my-shop\my-shop-web-admin\src\main\webapp\static" />
       <recent name="D:\代码\单体应用\my-shop\my-shop-web-admin\src\main\webapp\WEB-INF\views" />
       <recent name="D:\代码\单体应用\my-shop\my-shop-web-admin\src\main\resources" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\代码\单体应用\my-shop\my-shop-web-admin\src\main\webapp" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -346,9 +453,90 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Tomcat Server.my-shop-admin">
+    <configuration name="TbUserServiceTest.testDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-shop-web-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rhj.my.shop.web.admin.service.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rhj.my.shop.web.admin.service.test" />
+      <option name="MAIN_CLASS_NAME" value="com.rhj.my.shop.web.admin.service.test.TbUserServiceTest" />
+      <option name="METHOD_NAME" value="testDelete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TbUserServiceTest.testGetById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-shop-web-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rhj.my.shop.web.admin.service.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rhj.my.shop.web.admin.service.test" />
+      <option name="MAIN_CLASS_NAME" value="com.rhj.my.shop.web.admin.service.test.TbUserServiceTest" />
+      <option name="METHOD_NAME" value="testGetById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TbUserServiceTest.testInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-shop-web-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rhj.my.shop.web.admin.service.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rhj.my.shop.web.admin.service.test" />
+      <option name="MAIN_CLASS_NAME" value="com.rhj.my.shop.web.admin.service.test.TbUserServiceTest" />
+      <option name="METHOD_NAME" value="testInsert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TbUserServiceTest.testSelectByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-shop-web-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rhj.my.shop.web.admin.service.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rhj.my.shop.web.admin.service.test" />
+      <option name="MAIN_CLASS_NAME" value="com.rhj.my.shop.web.admin.service.test.TbUserServiceTest" />
+      <option name="METHOD_NAME" value="testSelectByName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TbUserServiceTest.testUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-shop-web-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rhj.my.shop.web.admin.service.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rhj.my.shop.web.admin.service.test" />
+      <option name="MAIN_CLASS_NAME" value="com.rhj.my.shop.web.admin.service.test.TbUserServiceTest" />
+      <option name="METHOD_NAME" value="testUpdate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="my-shop-admin" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.45" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="UPDATING_POLICY" value="restart-server" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
       <deployment>
         <artifact name="my-shop-web-admin:war exploded">
           <settings>
@@ -419,6 +607,23 @@
         </option>
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.TbUserServiceTest.testDelete" />
+      <item itemvalue="JUnit.TbUserServiceTest.testGetById" />
+      <item itemvalue="JUnit.TbUserServiceTest.testInsert" />
+      <item itemvalue="JUnit.TbUserServiceTest.testSelectByName" />
+      <item itemvalue="JUnit.TbUserServiceTest.testUpdate" />
+      <item itemvalue="Tomcat Server.my-shop-admin" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TbUserServiceTest.testInsert" />
+        <item itemvalue="JUnit.TbUserServiceTest.testGetById" />
+        <item itemvalue="JUnit.TbUserServiceTest.testSelectByName" />
+        <item itemvalue="JUnit.TbUserServiceTest.testUpdate" />
+        <item itemvalue="JUnit.TbUserServiceTest.testDelete" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -432,17 +637,59 @@
       <updated>1587715895294</updated>
       <workItem from="1587715896665" duration="3125000" />
       <workItem from="1587719041367" duration="6455000" />
+      <workItem from="1587779159158" duration="27145000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="TbUserServiceTest_testGetById - 2020.04.25 at 15h 56m 47s.xml">
+      <configuration name="TbUserServiceTest.testGetById" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TbUserServiceTest_testGetById - 2020.04.25 at 15h 57m 32s.xml">
+      <configuration name="TbUserServiceTest.testGetById" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TbUserServiceTest_testGetById - 2020.04.25 at 16h 10m 32s.xml">
+      <configuration name="TbUserServiceTest.testGetById" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TbUserServiceTest_testUpdate - 2020.04.25 at 16h 11m 19s.xml">
+      <configuration name="TbUserServiceTest.testUpdate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TbUserServiceTest_testSelectByName - 2020.04.25 at 16h 25m 43s.xml">
+      <configuration name="TbUserServiceTest.testSelectByName" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TbUserServiceTest_testSelectByName - 2020.04.25 at 16h 27m 37s.xml">
+      <configuration name="TbUserServiceTest.testSelectByName" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TbUserServiceTest_testSelectByName - 2020.04.25 at 16h 28m 44s.xml">
+      <configuration name="TbUserServiceTest.testSelectByName" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TbUserServiceTest_testGetById - 2020.04.25 at 16h 31m 53s.xml">
+      <configuration name="TbUserServiceTest.testGetById" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TbUserServiceTest_testInsert - 2020.04.25 at 16h 56m 57s.xml">
+      <configuration name="TbUserServiceTest.testInsert" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TbUserServiceTest_testInsert - 2020.04.25 at 16h 57m 50s.xml">
+      <configuration name="TbUserServiceTest.testInsert" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9580000" />
+    <option name="totallyTimeSpent" value="36725000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="58" y="135" width="1184" height="760" extended-state="0" />
+    <frame x="626" y="57" width="1184" height="760" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3401421" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26731795" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -450,26 +697,26 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Application Servers" weight="0.3290938" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.44674087" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2527822" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3290938" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3290938" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32956153" />
-      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.3290938" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Application Servers" order="13" weight="0.3290938" />
+      <window_info anchor="bottom" id="Spring" order="14" weight="0.3290938" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.3290938" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.15541741" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.19715808" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" />
@@ -477,7 +724,7 @@
       <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20870337" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2868561" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -485,24 +732,26 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Spring" order="0" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32956153" />
-      <window_info anchor="bottom" id="Java Enterprise" order="11" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.52913386" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3290938" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3290938" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.3290938" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Application Servers" order="13" weight="0.3290938" />
+      <window_info anchor="bottom" id="Spring" order="14" weight="0.3290938" />
+      <window_info anchor="bottom" id="Messages" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.3294849" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.19715808" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" />
@@ -516,13 +765,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/my-shop-dependencies/my-shop-dependencies.iml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-shop-domain/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="25" selection-end-line="18" selection-end-column="10" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/my-shop-web-ui/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -545,30 +787,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/resources/myshop.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/resources/spring-context.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="67" selection-start-line="7" selection-start-column="67" selection-end-line="7" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/my-shop-web-api/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
           <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-          <folding>
-            <element signature="n#filter-mapping#0;n#web-app#0;n#!!top" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -593,82 +815,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/dao/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-shop-commons/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/service/impl/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/dao/impl/UserDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/service/impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-shop-dependencies/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-shop-commons/src/main/java/com/rhj/my/shop/commons/constant/ConstantUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/webapp/WEB-INF/views/login.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/service/impl/UserService.java" />
     <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/web/controller/MainController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -686,39 +833,337 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/web/interceptor/PermissionInterceptor.java">
+    <entry file="file://$PROJECT_DIR$/my-shop-commons/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        <state relative-caret-position="390">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/resources/myshop.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1014">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="n#filter-mapping#0;n#web-app#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/resources/spring-mvc.xml">
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/resources/spring-context-mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/resources/spring-context-druid.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="834">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#847#868#0" expanded="true" />
+            <element signature="e#947#970#0" expanded="true" />
+            <element signature="e#1013#1031#0" expanded="true" />
+            <element signature="e#1074#1092#0" expanded="true" />
+            <element signature="e#1170#1189#0" expanded="true" />
+            <element signature="e#1231#1253#0" expanded="true" />
+            <element signature="e#1297#1321#0" expanded="true" />
+            <element signature="e#1684#1701#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-dependencies/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="50" column="45" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-domain/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/resources/spring-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="67" selection-start-line="7" selection-start-column="67" selection-end-line="7" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/service/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
-          <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/web/controller/LoginController.java">
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/dao/impl/UserDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="94">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-maven-3.3.9-bin/apache-maven-3.3.9/repository/org/mybatis/mybatis/3.2.8/mybatis-3.2.8.jar!/org/apache/ibatis/binding/MapperMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="341" selection-start-line="341" selection-end-line="341" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/web/interceptor/LoginInterceptor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-286">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        <state relative-caret-position="151">
+          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/service/TbUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/resources/mapper/TbUserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="63" column="12" lean-forward="true" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/service/impl/TbUserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="61" column="13" lean-forward="true" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#938#939#0" expanded="true" />
+            <element signature="e#959#960#0" expanded="true" />
+            <element signature="e#1053#1054#0" expanded="true" />
+            <element signature="e#1080#1081#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/dao/TbUserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/web/interceptor/PermissionInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-598">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/test/java/com/rhj/my/shop/web/admin/service/test/TbUserServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="36" column="28" lean-forward="true" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-domain/src/main/java/com/rhj/my/shop/domain/TbUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1365">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+            <element signature="e#651#652#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
+            <element signature="e#765#766#0" expanded="true" />
+            <element signature="e#805#806#0" expanded="true" />
+            <element signature="e#837#838#0" expanded="true" />
+            <element signature="e#865#866#0" expanded="true" />
+            <element signature="e#907#908#0" expanded="true" />
+            <element signature="e#941#942#0" expanded="true" />
+            <element signature="e#973#974#0" expanded="true" />
+            <element signature="e#1001#1002#0" expanded="true" />
+            <element signature="e#1043#1044#0" expanded="true" />
+            <element signature="e#1077#1078#0" expanded="true" />
+            <element signature="e#1109#1110#0" expanded="true" />
+            <element signature="e#1139#1140#0" expanded="true" />
+            <element signature="e#1183#1184#0" expanded="true" />
+            <element signature="e#1221#1222#0" expanded="true" />
+            <element signature="e#1253#1254#0" expanded="true" />
+            <element signature="e#1283#1284#0" expanded="true" />
+            <element signature="e#1327#1328#0" expanded="true" />
+            <element signature="e#1365#1366#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/web/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="701">
+          <caret line="42" column="14" lean-forward="true" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-commons/src/main/java/com/rhj/my/shop/commons/constant/ConstantUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/webapp/WEB-INF/views/user_list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/java/com/rhj/my/shop/web/admin/web/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/webapp/WEB-INF/includes/footer.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/webapp/WEB-INF/includes/copyright.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding>
+            <element signature="e#364#370#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/webapp/WEB-INF/views/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/webapp/WEB-INF/includes/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/webapp/WEB-INF/includes/nav.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+          <folding>
+            <element signature="n#a#0;n#li#0;n#ul#0;n#div#0;n#nav#0;n#header#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/webapp/WEB-INF/includes/menu.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-shop-web-admin/src/main/webapp/WEB-INF/views/main.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+          <folding>
+            <element signature="n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
